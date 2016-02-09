@@ -8,6 +8,7 @@
 ## Unofficial
 - https://themeteorchef.com/
 - http://www.meteorpedia.com/
+- https://github.com/percolatestudio/development-guide/wiki
 
 ## Models
 - http://dweldon.silvrback.com/models
@@ -26,6 +27,7 @@
 
 ## Advanced Projects
 - https://github.com/reactioncommerce/reaction
+- https://kadira.io/
 
 ## Packages
 - https://atmospherejs.com/dburles/factory
@@ -42,3 +44,10 @@
 - https://groups.google.com/forum/#!topic/meteor-talk/XyYhi8ZMgd8
 - http://fourkitchens.com/blog/article/debunking-3-meteor-misconceptions
 - https://meteorhacks.com/introduction-to-latency-compensation/
+
+
+#SEO
+- https://github.com/DerMambo/ms-seo
+- http://www.meteorpedia.com/read/spiderable/
+- https://meteorhacks.com/meteor-seo-google-fetch-and-render/
+- http://www.manuel-schoebel.com/blog/meteor-and-seo
