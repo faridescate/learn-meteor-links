@@ -25,7 +25,7 @@
 - http://www.manuel-schoebel.com/blog/meteor-and-seo
 
 ## Advanced Projects
-
+- https://github.com/reactioncommerce/reaction
 
 ## Packages
 - https://atmospherejs.com/dburles/factory
@@ -37,7 +37,7 @@
 - https://atmospherejs.com/meteor/spiderable
 - https://github.com/aldeed/meteor-collection2
 
-## Securty
+## Security
 - https://www.discovermeteor.com/blog/advanced-latency-compensation/
 - https://groups.google.com/forum/#!topic/meteor-talk/XyYhi8ZMgd8
 - http://fourkitchens.com/blog/article/debunking-3-meteor-misconceptions
