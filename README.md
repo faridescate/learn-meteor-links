@@ -51,6 +51,7 @@
 - https://themeteorchef.com/snippets/reactive-dict-reactive-vars-and-session-variables/#tmc-session-variables
 - http://www.manuel-schoebel.com/blog/meteor-and-seo
 - http://www.smashingthingstogether.com/handling-errors-in-meteor-methods/
+- https://lookback.io/blog/crafting-meteor-dropdowns
 
 ## Search
 - https://meteorhacks.com/implementing-an-instant-search-solution-with-meteor/
