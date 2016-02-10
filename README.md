@@ -21,10 +21,6 @@
 ## Templates
 - https://themeteorchef.com/snippets/using-dynamic-templates/
 
-## Others
-- https://themeteorchef.com/snippets/reactive-dict-reactive-vars-and-session-variables/#tmc-session-variables
-- http://www.manuel-schoebel.com/blog/meteor-and-seo
-
 ## Advanced Projects
 - https://github.com/reactioncommerce/reaction
 - https://kadira.io/
@@ -45,9 +41,16 @@
 - http://fourkitchens.com/blog/article/debunking-3-meteor-misconceptions
 - https://meteorhacks.com/introduction-to-latency-compensation/
 
-
 #SEO
 - https://github.com/DerMambo/ms-seo
 - http://www.meteorpedia.com/read/spiderable/
 - https://meteorhacks.com/meteor-seo-google-fetch-and-render/
 - http://www.manuel-schoebel.com/blog/meteor-and-seo
+
+## Others
+- https://themeteorchef.com/snippets/reactive-dict-reactive-vars-and-session-variables/#tmc-session-variables
+- http://www.manuel-schoebel.com/blog/meteor-and-seo
+- http://www.smashingthingstogether.com/handling-errors-in-meteor-methods/
+
+## Search
+- https://meteorhacks.com/implementing-an-instant-search-solution-with-meteor/
