@@ -56,6 +56,7 @@
 
 ## Search
 - https://meteorhacks.com/implementing-an-instant-search-solution-with-meteor/
+- https://github.com/matteodem/meteor-easy-search
 
 ## Issues
 ### latency compensation
