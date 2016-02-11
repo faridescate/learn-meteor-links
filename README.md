@@ -56,3 +56,10 @@
 
 ## Search
 - https://meteorhacks.com/implementing-an-instant-search-solution-with-meteor/
+
+## Issues
+### latency compensation
+- https://github.com/oortcloud/unofficial-meteor-faq#why-do-i-sometimes-see-two-copies-of-a-document-during-a-latency-compensated-method
+- https://github.com/meteor/meteor/issues/881#issuecomment-15882223
+- https://github.com/meteor/meteor/issues/1763
+- https://trello.com/c/moiiS2rP/57-pattern-for-creating-multiple-database-records-from-a-method
