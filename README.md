@@ -35,13 +35,16 @@
 - https://atmospherejs.com/meteor/spiderable
 - https://github.com/aldeed/meteor-collection2
 - https://github.com/juliancwirko/meteor-s-alert
-- **New** https://atmospherejs.com/houston/admin
+- **MongoDB GUI** https://atmospherejs.com/houston/admin
 
 ## Security
 - https://www.discovermeteor.com/blog/advanced-latency-compensation/
 - https://groups.google.com/forum/#!topic/meteor-talk/XyYhi8ZMgd8
 - http://fourkitchens.com/blog/article/debunking-3-meteor-misconceptions
 - https://meteorhacks.com/introduction-to-latency-compensation/
+
+## Cron
+- https://atmospherejs.com/percolate/synced-cron
 
 #SEO
 - https://github.com/DerMambo/ms-seo
