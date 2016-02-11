@@ -34,6 +34,7 @@
 - https://github.com/aldeed/meteor-simple-schema
 - https://atmospherejs.com/meteor/spiderable
 - https://github.com/aldeed/meteor-collection2
+- https://github.com/juliancwirko/meteor-s-alert
 
 ## Security
 - https://www.discovermeteor.com/blog/advanced-latency-compensation/
