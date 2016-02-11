@@ -35,6 +35,7 @@
 - https://atmospherejs.com/meteor/spiderable
 - https://github.com/aldeed/meteor-collection2
 - https://github.com/juliancwirko/meteor-s-alert
+- **New** https://atmospherejs.com/houston/admin
 
 ## Security
 - https://www.discovermeteor.com/blog/advanced-latency-compensation/
