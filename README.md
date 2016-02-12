@@ -68,3 +68,6 @@
 - https://github.com/meteor/meteor/issues/881#issuecomment-15882223
 - https://github.com/meteor/meteor/issues/1763
 - https://trello.com/c/moiiS2rP/57-pattern-for-creating-multiple-database-records-from-a-method
+
+## Docker for meteor
+- https://hub.docker.com/r/meteorhacks/meteord/
