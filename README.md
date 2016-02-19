@@ -4,6 +4,7 @@
 - http://docs.meteor.com/
 - http://guide.meteor.com/
 - http://es.discovermeteor.com/
+- https://www.meteor.com/webapp
 
 ## Unofficial
 - https://themeteorchef.com/
@@ -62,7 +63,7 @@
 - https://meteorhacks.com/implementing-an-instant-search-solution-with-meteor/
 - https://github.com/matteodem/meteor-easy-search
 
-## Issues
+## Issues?
 ### latency compensation
 - https://github.com/oortcloud/unofficial-meteor-faq#why-do-i-sometimes-see-two-copies-of-a-document-during-a-latency-compensated-method
 - https://github.com/meteor/meteor/issues/881#issuecomment-15882223
@@ -71,3 +72,11 @@
 
 ## Docker for meteor
 - https://hub.docker.com/r/meteorhacks/meteord/
+
+## Future !
+- https://github.com/apollostack/apollo/blob/master/design/high-level-reactivity.md
+- https://voice.kadira.io/meteor-s-reactive-graphql-is-just-awesome-b21074231528#.r0i0q5ik5
+- https://learngraphql.com/
+- https://voice.kadira.io/meteor-meets-graphql-3cba2e65fd00#.621eq71d2
+- https://forums.meteor.com/t/when-will-rethinkdb-will-be-supported/18163/13
+- https://github.com/apollostack/apollo
