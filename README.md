@@ -80,3 +80,6 @@
 - https://voice.kadira.io/meteor-meets-graphql-3cba2e65fd00#.621eq71d2
 - https://forums.meteor.com/t/when-will-rethinkdb-will-be-supported/18163/13
 - https://github.com/apollostack/apollo
+
+## CheatSheet
+- https://gist.github.com/LeCoupa/59738c28fdc9085b9212
