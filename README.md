@@ -15,6 +15,9 @@
 - http://dweldon.silvrback.com/models
 - https://dweldon.silvrback.com/methods
 
+## UserAccounts
+- http://useraccounts.meteor.com/
+
 ## Router
 - http://iron-meteor.github.io/iron-router
 - https://kadira.io/academy/meteor-routing-guide/content/introduction-to-flow-router
