@@ -1,5 +1,8 @@
 # Useful Links to learn Meteor
 
+## ES6
+- http://info.meteor.com/blog/es2015-get-started
+
 ## Official
 - http://docs.meteor.com/
 - http://guide.meteor.com/
