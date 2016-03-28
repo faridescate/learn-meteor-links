@@ -1,5 +1,9 @@
 # Useful Links to learn Meteor
 
+## Patterns and Code Organizing
+- https://themeteorchef.com/blog/simple-code-organization-techniques-in-meteor/
+- https://themeteorchef.com/snippets/using-the-module-pattern-with-meteor/
+
 ## ES6
 - http://info.meteor.com/blog/es2015-get-started
 
